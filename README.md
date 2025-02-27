@@ -41,6 +41,9 @@ ABCoder是字节跳动-基础架构团队自研的LLM原生编程解决方案，
 ## License
 Apache 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html)
 
+## 初步效果
+- 分析负责Rust项目，并生成代码分析文档
+  - 面向[rCore-Tutorial-v3操作系统源码](https://github.com/rcore-os/rCore-Tutorial-v3)自动生成的[rCore-Tutorial-v3操作系统的代码分析文档](https://github.com/rcore-os/rCore-Tutorial-v3-api-doc/blob/main/rCore-Tutorial-v3.md)
 ## 预期目标
 1. 为ABCoder支持C项目的解析能力。
 2. 基于C项目的解析能力构建语义化理解LLM Agent，实现LLM辅助项目文档自动化编写功能。

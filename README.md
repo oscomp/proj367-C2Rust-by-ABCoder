@@ -47,4 +47,4 @@ Apache 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html)
 ## 预期目标
 1. 为ABCoder支持C项目的解析能力。
 2. 基于C项目的解析能力构建语义化理解LLM Agent，实现LLM辅助项目文档自动化编写功能。
-3. 构建C2Rust迁移系统，实现将指定OS（C语言实现）最大程度自动化迁移至Rust语言实现，且结果可复现、能力可迁移至其他C项目。 
+3. 构建C2Rust迁移系统，实现将指定OS（[C语言实现](https://github.com/LearningOS/uCore-Tutorial-Code-2025S)）最大程度自动化迁移至Rust语言实现，且结果可复现、能力可迁移至其他C项目。 
